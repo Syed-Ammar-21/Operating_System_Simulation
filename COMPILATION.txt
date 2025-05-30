@@ -1,0 +1,35 @@
+MAIN      g++ -pthread -o obj astro.cpp -lcurses           ./obj
+
+
+g++ -pthread -o mainprog os.cpp -lcurses              ./mainprog
+
+
+
+1. g++ notepad.cpp -o notepad           ./notepad      (done)
+
+2. g++ calculator.cpp -o calculator          ./calculator   (done)
+
+3. g++ -o calendar calender.cpp              ./calendar   (done)
+
+4. g++ -o clock clock.cpp                 ./clock      (done)
+
+5. g++ -o create create.cpp                ./create   (done)
+
+6. g++ -o copy copy.cpp                    ./copy   (done)
+
+7. g++ -o delete delete.cpp                    ./delete       (done)
+
+8. g++ -o rename rename.cpp                     ./rename (done)
+
+9. g++ -o quotes quotes.cpp                  ./quotes  (done)
+
+10. g++ -o numberguessing numberguessing.cpp       ./numberguessing    (done)
+
+11. g++ -o hangman hangman.cpp                 ./hangman  ( done )
+
+12. g++ -o tictactoe tictactoe.cpp           ./tictactoe ( done )
+
+13. g++ -o towerofhanoi towerofhanoi.cpp     ./towerofhanoi ( done )
+ 
+14. g++ -o kernel kernel.cpp                  ./kernel   ( done )
+
